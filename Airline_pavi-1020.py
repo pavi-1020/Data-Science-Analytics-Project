@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# UpX Academy - Proect - Question - Section1- On delays
-
 # In[54]:
 
 import pandas as pd    
@@ -174,19 +170,3 @@ def autolabel(rects):
                 ha='center', va='bottom')
 autolabel(rects2)
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
